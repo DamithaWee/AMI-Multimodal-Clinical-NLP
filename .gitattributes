@@ -1,2 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<<<<<<< HEAD
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.joblib filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 532f0054829a2129c9ff39725d3278ed321e6dff

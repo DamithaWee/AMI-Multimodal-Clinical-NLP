@@ -1,5 +1,29 @@
 #custom
 dataset/
+data/raw/
+data/processed/
+
+# Intermediate / filtered notebook data
+notebooks/filtered_data/
+
+# Generated results: trained models, checkpoints, figures & metrics
+results/
+
+# Common ML binary / serialized formats
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+*.joblib
+*.safetensors
+*.csv
+
+.idea/
 
 
 # Byte-compiled / optimized / DLL files
