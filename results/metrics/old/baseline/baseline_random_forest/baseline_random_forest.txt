@@ -1,0 +1,12 @@
+Area Under the Curve (AUC): 0.7525
+F1-Score: 0.0239
+
+Classification Report:
+              precision    recall  f1-score   support
+
+Survived (0)       0.95      1.00      0.97      7688
+    Died (1)       0.36      0.01      0.02       405
+
+    accuracy                           0.95      8093
+   macro avg       0.65      0.51      0.50      8093
+weighted avg       0.92      0.95      0.93      8093

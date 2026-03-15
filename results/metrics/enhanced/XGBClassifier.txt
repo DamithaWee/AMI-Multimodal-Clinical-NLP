@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+Area Under the Curve (AUC): 0.7706
+F1-Score: 0.2817
+=======
+Area Under the Curve (AUC): 0.8186
+F1-Score: 0.2363
+>>>>>>> b5ffbec (Initial commit with full IRP structure and LFS tracking)
+
+Classification Report:
+              precision    recall  f1-score   support
+
+<<<<<<< HEAD
+    Survivor       0.97      0.95      0.96      5269
+   Mortality       0.24      0.34      0.28       267
+
+    accuracy                           0.92      5536
+   macro avg       0.60      0.64      0.62      5536
+weighted avg       0.93      0.92      0.92      5536
+=======
+    Survivor       0.98      0.81      0.88      5269
+   Mortality       0.14      0.64      0.24       267
+
+    accuracy                           0.80      5536
+   macro avg       0.56      0.73      0.56      5536
+weighted avg       0.94      0.80      0.85      5536
+>>>>>>> b5ffbec (Initial commit with full IRP structure and LFS tracking)

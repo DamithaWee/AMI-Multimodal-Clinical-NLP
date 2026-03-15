@@ -7,7 +7,9 @@ data/processed/
 notebooks/filtered_data/
 
 # Generated results: trained models, checkpoints, figures & metrics
-results/
+results/bert_finetuned
+results/models  
+results/model
 
 # Common ML binary / serialized formats
 *.npy
