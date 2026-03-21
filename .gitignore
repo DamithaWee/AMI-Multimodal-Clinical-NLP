@@ -1,29 +1,23 @@
 #custom
 dataset/
 data/raw/
-data/processed/
 
 # Intermediate / filtered notebook data
 notebooks/filtered_data/
 
 # Generated results: trained models, checkpoints, figures & metrics
 results/bert_finetuned
-results/models  
-results/model
+results/model/finetuned_clinicalbert
+results/model/finetuned_model
 
 # Common ML binary / serialized formats
-*.npy
 *.npz
-*.pkl
 *.pickle
 *.h5
 *.hdf5
 *.pt
 *.pth
 *.onnx
-*.joblib
-*.safetensors
-*.csv
 
 .idea/
 

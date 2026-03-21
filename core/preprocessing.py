@@ -5,6 +5,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 import logging
+import pickle
 
 def load_and_merge_data(structured_path, nlp_features_path):
     """
