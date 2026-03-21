@@ -24,7 +24,7 @@ def load_models():
         vitals_scaler = pickle.load(f)
         
     # NLP Model 
-    local_model_path = "models/finetuned_tiny_clinicalbert" 
+    local_model_path = "../results/models/finetuned_tiny_clinicalbert" 
     
     try:
         tokenizer = AutoTokenizer.from_pretrained(local_model_path)
