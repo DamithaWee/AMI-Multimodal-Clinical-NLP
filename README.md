@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Multimodal EHR Fusion and Explainable AI in Medicine: Predictive Modeling of Mortality Risk
 
 ## Abstract
@@ -67,11 +65,4 @@ IRP/
 *   Acosta, J.N., Falcone, G.J. and Rajpurkar, P. (2022) 'Multimodal deep learning for healthcare', *Nature Reviews Bioengineering*, 1(1), pp. 1-14. Available at: https://doi.org/10.1038/s44222-022-00004-1.
 *   Lundberg, S.M. et al. (2020) 'From local explanations to global understanding with explainable AI for trees', *Nature Machine Intelligence*, 2(1), pp. 56-67.
 *   Soenksen, L.R. et al. (2022) 'Integrated multimodal artificial intelligence framework for healthcare applications', *npj Digital Medicine*, 5(1), p. 149. Available at: https://doi.org/10.1038/s41746-022-00689-4.
-=======
-# IRP
 
->>>>>>> b5ffbec (Initial commit with full IRP structure and LFS tracking)
-=======
-# IRP
-
->>>>>>> 532f0054829a2129c9ff39725d3278ed321e6dff
